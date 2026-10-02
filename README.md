@@ -55,7 +55,6 @@ Before running this application, make sure you have installed:
 
 - Java JDK 17+
 - Maven
-- Node.js (v18+)
 - MySQL Server
 - Git
 
